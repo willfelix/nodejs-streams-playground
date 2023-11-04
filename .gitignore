@@ -1,0 +1,6 @@
+test/node_modules/
+csv-to-ndjson/node_modules/
+consuming-api-as-stream/app/node_modules/
+consuming-api-as-stream/server/node_modules/
+csv-to-ndjson/data/
+streams/data/
