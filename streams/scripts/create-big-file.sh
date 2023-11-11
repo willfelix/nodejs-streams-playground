@@ -1,1 +1,1 @@
-for i in `seq 1 3`; do node -e "process.stdout.write('hello world '.repeat(1e7))" >> ./data/bigfile.txt; done 
+for i in `seq 1 20`; do node -e "process.stdout.write('hello world '.repeat(1e7))" >> ./data/bigfile.txt; done 
