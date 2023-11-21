@@ -1,3 +1,4 @@
 **/node_modules/
 csv-to-ndjson/data/
 streams/data/
+**/.DS_Store
